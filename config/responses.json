@@ -1,0 +1,4 @@
+{
+    "NO_PERMISSION": "```kamu tidak memiliki izin untuk menggunakan perintah ini!.```",
+    "MSG_SEND_ERROR":"```tidak bisa mengirim!. apakah kamu mencampur gaya syntax?.```",
+    "INPUT_PARSE_ERROR":"tidak bisa mengurai input data!."

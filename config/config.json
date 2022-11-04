@@ -1,0 +1,10 @@
+{
+    "BOT_TOKEN": "",
+    "BOT_TRIGGER": "?embed",
+    "ROLES_ALLOWED": [
+        "hitanEmbed",
+        "fatpig",
+        "Bots"
+    ],
+    "COMMAND_AUTO_DELETE": true
+}
